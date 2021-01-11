@@ -1,8 +1,8 @@
 # Telegram-Bot-Libraries
 
 ```
-If you want to learn more about Telegram bots, start with our Introduction to Bots »
-Check out the FAQ, if you have questions.
+If you want to learn more about Telegram bots, start with our [Introduction to Bots »](https://core.telegram.org/bots)
+Check out the [FAQ](https://core.telegram.org/bots/faq), if you have questions.
 ```
 
 Many members of our community are building bots and libraries and publishing their source code. We collect these examples here. Ping us on BotSupport if you've built a bot and would like to share its code with others.
