@@ -92,6 +92,10 @@ https://github.com/telegram-rs/telegram-bot
 
 ### Python
 
+Pyrogram. Telegram client library and framework written from the ground up in Python and C.
+
+https://github.com/pyrogram/pyrogram
+
 python-telegram-bot. A wrapper you can't refuse.
 
 https://github.com/python-telegram-bot/python-telegram-bot
