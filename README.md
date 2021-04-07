@@ -1,6 +1,7 @@
 # Telegram-Bot-Libraries
+---
 
-### PHP
+## PHP
 
 Telegram Bot Api Base. Clear and simple Telegram Bot API.
 
@@ -42,7 +43,9 @@ TelegramBotApiBundle. A symfony wrapper bundle for Telegram Bot API.
 
 https://github.com/borsaco/TelegramBotApiBundle
 
-### Node.js
+---
+
+## Node.js
 
 Telegraf. Modern Telegram Bot Framework for Node.js.
 
@@ -72,7 +75,9 @@ Botgram. Practical Telegram Bot microframework.
 
 https://github.com/botgram/botgram
 
-### Rust
+---
+
+## Rust
 
 teloxide. An elegant Telegram bots framework for Rust.
 
@@ -90,7 +95,9 @@ telegram-bot. Rust Library for creating a Telegram Bot.
 
 https://github.com/telegram-rs/telegram-bot
 
-### Python
+---
+
+## Python
 
 Pyrogram. Telegram client library and framework written from the ground up in Python and C.
 
@@ -108,7 +115,9 @@ AIOGram. A pretty simple and fully asynchronous library for Telegram Bot API wri
 
 https://github.com/aiogram/aiogram
 
-### Ruby
+---
+
+## Ruby
 
 Telegram::Bot. Ruby gem for building Telegram Bot with optional Rails integration.
 
@@ -122,7 +131,9 @@ TelegramBot. A charismatic Ruby client for Telegram's Bot API.
 
 https://github.com/eljojo/telegram_bot
 
-### Swift
+---
+
+## Swift
 
 telegram-bot-swift. Telegram Bot SDK for Swift.
 
@@ -136,7 +147,9 @@ SwiftyBot. Swift + Vapor + Telegram.
 
 https://github.com/FabrizioBrancati/SwiftyBot
 
-### Kotlin
+---
+
+## Kotlin
 
 Kotlin Telegram Bot. A wrapper for the Telegram Bot API.
 
@@ -150,7 +163,9 @@ Telegraff. Kotlin DSL for Telegram Bots.
 
 https://github.com/ruslanys/telegraff
 
-### Java
+---
+
+## Java
 
 TelegramBots. A simple to use library to create Telegram Bots.
 
@@ -160,7 +175,9 @@ Java API. Telegram Bot API for Java.
 
 https://github.com/pengrad/java-telegram-bot-api
 
-### Go
+---
+
+## Go
 
 go-telegram-bot-api. Golang bindings for the Telegram Bot API.
 
@@ -170,7 +187,9 @@ telebot. A Telegram bot framework in Go.
 
 https://github.com/tucnak/telebot
 
-### Other Languages
+---
+
+## Other Languages
 
 C#. Telegram.bot. Library.
 
